@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Game_Dice21\Game_Dice21\bin\Debug\Game_Dice21.exe.config
+C:\Users\Admin\source\repos\Game_Dice21\Game_Dice21\bin\Debug\Game_Dice21.exe
+C:\Users\Admin\source\repos\Game_Dice21\Game_Dice21\bin\Debug\Game_Dice21.pdb
+C:\Users\Admin\source\repos\Game_Dice21\Game_Dice21\obj\Debug\Game_Dice21.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Game_Dice21\Game_Dice21\obj\Debug\Game_Dice21.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Game_Dice21\Game_Dice21\obj\Debug\Game_Dice21.Form1.resources
+C:\Users\Admin\source\repos\Game_Dice21\Game_Dice21\obj\Debug\Game_Dice21.Properties.Resources.resources
+C:\Users\Admin\source\repos\Game_Dice21\Game_Dice21\obj\Debug\Game_Dice21.Start.resources
+C:\Users\Admin\source\repos\Game_Dice21\Game_Dice21\obj\Debug\Game_Dice21.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Game_Dice21\Game_Dice21\obj\Debug\Game_Dice21.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Game_Dice21\Game_Dice21\obj\Debug\Game_Dice21.exe
+C:\Users\Admin\source\repos\Game_Dice21\Game_Dice21\obj\Debug\Game_Dice21.pdb
+C:\Users\Admin\source\repos\Game_Dice21\Game_Dice21\obj\Debug\Game_Dice21.Form2.resources
+C:\Users\Admin\source\repos\Game_Dice21\Game_Dice21\obj\Debug\Game_Dice21.Form3.resources
+C:\Users\Admin\source\repos\Game_Dice21\Game_Dice21\obj\Debug\Game_Dice21.Form4.resources
